@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Admissions xmlns="http://iiitb.ac.in/mt2024127">
+    <application application_ID="APFE1230">
+        <ug_details>
+            <college_name>IIIT Bangalore</college_name>
+            <branch>CSE</branch>
+        </ug_details>
+        <gate_Score year="2022">750</gate_Score>
+        <awards>Best Research Paper Award</awards>
+    </application>
+</Admissions>
